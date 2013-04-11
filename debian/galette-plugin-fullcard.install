@@ -1,0 +1,3 @@
+*.php usr/share/galette/plugins/galette-plugin-fullcard/
+lang usr/share/galette/plugins/galette-plugin-fullcard/
+templates usr/share/galette/plugins/galette-plugin-fullcard/

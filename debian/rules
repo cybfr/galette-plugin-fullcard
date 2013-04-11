@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@
+
+override_dh_install:
+	dh_install
+	# Cleanup useless stuff
+	rm -rf debian/galette-plugin-fullcard/usr/share/galette/plugins/galette-plugin-fullcard/lang/*.py

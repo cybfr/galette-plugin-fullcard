@@ -1,0 +1,19 @@
+Source: galette-plugin-fullcard
+Section: web
+Priority: optional
+Maintainer: Raphaël Hertzog <hertzog@debian.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.4
+Homepage: http://galette.tuxfamily.org
+Vcs-Git: git://git.debian.org/collab-maint/galette-plugin-fullcard.git
+Vcs-Browser: http://git.debian.org/?p=collab-maint/galette-plugin-fullcard.git;a=summary
+
+Package: galette-plugin-fullcard
+Architecture: all
+Depends: galette, ${misc:Depends}
+Description: Membership card plugin for Galette
+ Galette is a web application for French-speaking associations that
+ want to manage their list of members online.
+ .
+ This plugin makes it possible to generate membership cards as
+ downloadable PDF documents.
