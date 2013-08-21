@@ -1,6 +1,7 @@
 galette-plugin-fullcard (1.4-1) unstable; urgency=low
 
   * New upstream release.
+  * Update Git urls.
 
  -- Raphaël Hertzog <hertzog@debian.org>  Wed, 21 Aug 2013 22:15:17 +0200
 
