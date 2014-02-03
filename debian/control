@@ -1,9 +1,10 @@
 Source: galette-plugin-fullcard
 Section: web
 Priority: optional
-Maintainer: Raphaël Hertzog <hertzog@debian.org>
+Maintainer: François-Régis Vuillemin <frv-debian@miradou.com>
+Uploaders: Raphaël Hertzog <hertzog@debian.org>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.4
+Standards-Version: 3.9.5
 Homepage: http://galette.tuxfamily.org
 Vcs-Git: git://anonscm.debian.org/collab-maint/galette-plugin-fullcard.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/galette-plugin-fullcard.git;a=summary
